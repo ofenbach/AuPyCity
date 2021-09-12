@@ -6,6 +6,7 @@ Record up to two recordings
 Stereo/Mono recording  
 
 # Beta Features (release soon)
+http://www.aupycity.com
 These features are ready to go, but not shipped into this version:  
 Normalize your audio  
 Compress your audio  
@@ -18,5 +19,6 @@ Direct Monitoring (listen to what your recording in real time)
 Display of spectrogram while recording  
 
 # Screenshot  (COMING SOON)
-http://www.aupycity.com![Design 1 1](https://user-images.githubusercontent.com/29439003/132979054-cc14ac3d-7598-4951-ac60-02590ed73b44.png)
+http://www.aupycity.com
+![Design 1 1](https://user-images.githubusercontent.com/29439003/132979065-e313a2ac-0fb0-422b-b7b3-c4e505794ffa.png)
 
