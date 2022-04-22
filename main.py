@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from context import Context
-from main_ui import MainUI
+from ui.main_ui import MainUI
 
 __author__ = "Tim Ofenbach"
 __copyright__ = "Copyright 2021, AuPyCity"
