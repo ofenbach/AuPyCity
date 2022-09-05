@@ -1,5 +1,6 @@
 # AuPyCity
-Recording App made in Python.
+![Design 1 1](https://user-images.githubusercontent.com/29439003/132979065-e313a2ac-0fb0-422b-b7b3-c4e505794ffa.png)
+http://www.aupycity.com
 
 # Features
 Record up to two recordings  
@@ -17,8 +18,3 @@ Direct Monitoring (listen to what your recording in real time)
 16/32 Bit Audio  
 44100,48000,96000Hz all possible  
 Display of spectrogram while recording  
-
-# Screenshot  (COMING SOON)
-http://www.aupycity.com
-![Design 1 1](https://user-images.githubusercontent.com/29439003/132979065-e313a2ac-0fb0-422b-b7b3-c4e505794ffa.png)
-
