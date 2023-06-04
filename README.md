@@ -1,6 +1,5 @@
 # AuPyCity
 ![Design 1 1](https://user-images.githubusercontent.com/29439003/132979065-e313a2ac-0fb0-422b-b7b3-c4e505794ffa.png)
-http://www.aupycity.com
 
 # Features
 Record up to two recordings  
