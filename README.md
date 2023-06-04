@@ -6,8 +6,7 @@ http://www.aupycity.com
 Record up to two recordings  
 Stereo/Mono recording  
 
-# Beta Features (release soon)
-http://www.aupycity.com
+# Beta Features
 These features are ready to go, but not shipped into this version:  
 Normalize your audio  
 Compress your audio  
