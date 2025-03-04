@@ -16,3 +16,7 @@ Direct Monitoring (listen to what your recording in real time)
 16/32 Bit Audio  
 44100,48000,96000Hz all possible  
 Display of spectrogram while recording  
+
+## Latest project
+Check out my latest project:  
+https://online-image-optimizer.com
