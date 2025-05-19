@@ -18,5 +18,8 @@ Direct Monitoring (listen to what your recording in real time)
 Display of spectrogram while recording  
 
 ## Latest project
-Check out my latest project:  
-https://online-image-optimizer.com
+Check out my latest audio project:  
+https://binauro.com
+
+## Other dev tools
+https://picmin.com
